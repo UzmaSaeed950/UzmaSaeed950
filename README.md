@@ -49,8 +49,8 @@ I believe in **clean architecture**, efficient problem-solving, and delivering *
 ---
 
 ## 📜 Certifications
-- **Agile with Atlassian Jira** – LinkedIn (Dec 2023)  
-- **Python (Basic)** – HackerRank (Sep 2022) [View Certificate](https://www.hackerrank.com/certificates/iframe/15d24fbdcb2e)
+- **Agile with Atlassian Jira** – LinkedIn (Dec 2023)  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/VJUZD86KY4MW)
+- **Python (Basic)** – HackerRank (Sep 2022) 
 
 ---
 
