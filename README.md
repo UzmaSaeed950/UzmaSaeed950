@@ -48,33 +48,9 @@ I believe in **clean architecture**, efficient problem-solving, and delivering *
 
 ---
 
-## 💼 Professional Experience
-
-### **Full Stack Developer** – *Sikaram Tech* (Aug 2017 – Present, Remote)
-- Developed scalable full-stack applications using **Core PHP, Laravel, Django, FastAPI**.
-- Built RESTful APIs, integrated business logic, and optimized app performance.
-- Created responsive UIs with **Angular, Bootstrap**.
-- Mentored junior developers and performed code reviews.
-- Managed source control with **Git/GitHub**, followed Agile practices using **Jira**.
-
-### **Web Developer** – *SevenSkills* (Aug 2016 – Aug 2017, Onsite)
-- Developed and maintained dynamic websites with **Core PHP & MySQL**.
-- Customized **WordPress** themes and plugins.
-- Created responsive frontends with **HTML, CSS, JavaScript, Bootstrap**.
-- Implemented secure CRUD operations and authentication.
-
----
-
 ## 📜 Certifications
 - **Agile with Atlassian Jira** – LinkedIn (Dec 2023)  
 - **Python (Basic)** – HackerRank (Sep 2022) [View Certificate](https://www.hackerrank.com/certificates/iframe/15d24fbdcb2e)
-
----
-
-## 📈 GitHub Stats
-![Uzma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzmaSaeed950&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSaeed950&layout=compact&theme=radical)
 
 ---
 
