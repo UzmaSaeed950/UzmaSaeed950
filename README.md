@@ -72,13 +72,13 @@ I believe in **clean architecture**, efficient problem-solving, and delivering *
 ---
 
 ## 📈 GitHub Stats
-![Uzma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Uzma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzmaSaeed950&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaSaeed950&layout=compact&theme=radical)
 
 ---
 
 ## ✨ Fun Facts
 - 💡 I love learning new technologies and applying them to real-world projects.
 - 🎯 I enjoy mentoring and collaborating with diverse teams.
-- 🎮 In my free time, I play video games and explore creative coding projects.
+- 🎮 In my free time, I play games, read book.
