@@ -1,6 +1,5 @@
 # Hi, I'm Uzma 👋
 
-![Banner](https://your-banner-image-link)
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** with 7+ years of experience building **scalable, high-performance applications**.  
