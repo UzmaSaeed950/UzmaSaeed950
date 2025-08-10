@@ -30,7 +30,7 @@ I believe in **clean architecture**, efficient problem-solving, and delivering *
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
 </p>
 
 ### **Databases**
